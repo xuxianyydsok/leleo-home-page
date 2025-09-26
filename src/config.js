@@ -7,7 +7,7 @@ const config = {
 		icon: '/favicon.ico'   //网页图标，支持外链
 	},
 
-	avatar: "/img/avatar.jpg", // 头像
+	avatar: "/img/01.png", // 头像
 	welcometitle: "Hi, I'm Xu Guochen", // 标题
 
 	// 颜色配置
@@ -22,7 +22,7 @@ const config = {
 	blur: 5, // 毛玻璃模糊效果
 
 	// 我的标签
-	tags: ['乐观开朗', '温柔体贴', '随和亲切', '冷静沉着', '才思敏捷', '风趣幽默', '刚正不阿', '善解人意'],
+	tags: ['乐观开朗', '有些社恐', '随和亲切', '冷静沉着',  '善解人意'],
 
 	// 默认背景壁纸
 	background: {
@@ -138,14 +138,14 @@ const config = {
 
 	//项目卡片 其中 字段"show"控制初始卡片的text是否展开
 	projectcards: [
-		{ go: "🚀 前往", img: "/img/sunshine.jpg", title: "个人博客", subtitle: "1,000 miles of wonder", text: "点击此处访问我的博客.", url: "https://xuguochenblog.dpdns.org/", show: false },
-		{ go: "🗂️ 前往", img: "/img/sunshine.jpg", title: "在线音乐平台", subtitle: "2,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "http://xuguochen003.dpdns.org/", show: false },
-		{ go: "📝 前往", img: "/img/sunshine.jpg", title: "hive AI聊天", subtitle: "3,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "http://xuguochen.dpdns.org/", show: false },
-		{ go: "👍 前往", img: "/img/sunshine.jpg", title: "open webui AI聊天", subtitle: "4,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://webui.xuguochen.dpdns.org/", show: false },
-		{ go: "🗃 前往", img: "/img/sunshine.jpg", title: "影视站Libre TV", subtitle: "5,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "http://xuguochen001.dpdns.org/", show: false },
-		{ go: "🎨 前往", img: "/img/sunshine.jpg", title: "影视站Moon TV", subtitle: "6,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "http://xuguochen002.dpdns.org/", show: false },
-		{ go: "💍 前往", img: "/img/sunshine.jpg", title: "待补充", subtitle: "7,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://xuguochenblog.dpdns.org/", show: false },
-		{ go: "🔍 前往", img: "/img/sunshine.jpg", title: "待补充", subtitle: "8,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://xuguochenblog.dpdns.org/", show: false },
+		{ go: "🚀 前往", img: "/img/02.png", title: "个人博客", subtitle: "1,000 miles of wonder", text: "点击此处访问我的博客.", url: "https://xuguochenblog.dpdns.org/", show: false },
+		{ go: "🗂️ 前往", img: "/img/02.png", title: "在线音乐平台", subtitle: "2,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "http://xuguochen003.dpdns.org/", show: false },
+		{ go: "📝 前往", img: "/img/02.png", title: "hive AI聊天", subtitle: "3,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "http://xuguochen.dpdns.org/", show: false },
+		{ go: "👍 前往", img: "/img/02.png", title: "open webui AI聊天", subtitle: "4,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://webui.xuguochen.dpdns.org/", show: false },
+		{ go: "🗃 前往", img: "/img/02.png", title: "影视站Libre TV", subtitle: "5,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "http://xuguochen001.dpdns.org/", show: false },
+		{ go: "🎨 前往", img: "/img/02.png", title: "影视站Moon TV", subtitle: "6,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "http://xuguochen002.dpdns.org/", show: false },
+		{ go: "💍 前往", img: "/img/02.png", title: "待补充", subtitle: "7,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://xuguochenblog.dpdns.org/", show: false },
+		{ go: "🔍 前往", img: "/img/02.png", title: "待补充", subtitle: "8,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://xuguochenblog.dpdns.org/", show: false },
 	],
 
 	statement: ["备案号：ANMIAOYI--安妙依", "Copyright © 2025 ANMIAOYI"],
