@@ -53,12 +53,12 @@ const config = {
 
 	//社交按钮
 	socialPlatformIcons: [
-		{ icon: "mdi-github", link: "https://www.github.com/leleo886" },
-		{ icon: "mdi-email", link: "mailto:leleo886@foxmail.com" },
-		{ icon: "mdi-qqchat", link: "https://im.qq.com/" },
-		{ icon: "mdi-wechat", link: "https://wx.qq.com/" },
-		{ icon: "mdi-youtube", link: "https://www.youtube.com" },
-		{ icon: "mdi-facebook", link: "https://www.facebook.com" }
+		{ icon: "mdi-github", link: "https://xuguochenblog.dpdns.org/" },
+		{ icon: "mdi-email", link: "https://xuguochenblog.dpdns.org/" },
+		{ icon: "mdi-qqchat", link: "https://xuguochenblog.dpdns.org/" },
+		{ icon: "mdi-wechat", link: "https://xuguochenblog.dpdns.org/" },
+		{ icon: "mdi-youtube", link: "https://xuguochenblog.dpdns.org/" },
+		{ icon: "mdi-facebook", link: "https://xuguochenblog.dpdns.org/" }
 	],
 
 	//打字机
