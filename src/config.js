@@ -63,10 +63,10 @@ const config = {
 
 	//打字机
 	typeWriterStrings: [
-		"1111。",
-		"2222。",
-		"3333。",
-		"4444。"
+		"人生没有白走的路，每一步都算数。那些看似无用的经历、暂时的迷茫和孤独的坚持，终将在未来的某个时刻串联成你独有的风景。不要急于否定当下的自己，成长往往发生在你看不见的地方。",
+		"人生如登山，有人追求登顶的荣耀，有人享受沿途的风景。其实，重要的不是你站在多高的位置，而是你是否走出了属于自己的路。慢一点没关系，只要方向对，终会抵达。",
+		"在这个快节奏的时代，我们总被催促着前进，却很少停下来问问自己：这真的是我想要的生活吗？真正的自由，是敢于按照自己的节奏生活，而不是活在别人的期待里。",
+		"真正的成熟，不是变得世故圆滑，而是在看清生活的复杂之后，依然选择善良与真诚。你不必讨好所有人，但要对得起自己的良心；世界或许喧嚣，但内心可以保持宁静。"
 	],
 
 	//音乐播放配置，采用MetingJS Api(https://github.com/metowolf/MetingJS)
@@ -139,13 +139,13 @@ const config = {
 	//项目卡片 其中 字段"show"控制初始卡片的text是否展开
 	projectcards: [
 		{ go: "🚀 前往", img: "/img/02.png", title: "个人博客", subtitle: "1,000 miles of wonder", text: "点击此处访问我的博客.", url: "https://xuguochenblog.dpdns.org/", show: false },
-		{ go: "🗂️ 前往", img: "/img/02.png", title: "在线音乐平台", subtitle: "2,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "http://xuguochen003.dpdns.org/", show: false },
-		{ go: "📝 前往", img: "/img/02.png", title: "hive AI聊天", subtitle: "3,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "http://xuguochen.dpdns.org/", show: false },
-		{ go: "👍 前往", img: "/img/02.png", title: "open webui AI聊天", subtitle: "4,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://webui.xuguochen.dpdns.org/", show: false },
-		{ go: "🗃 前往", img: "/img/02.png", title: "影视站Libre TV", subtitle: "5,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "http://xuguochen001.dpdns.org/", show: false },
-		{ go: "🎨 前往", img: "/img/02.png", title: "影视站Moon TV", subtitle: "6,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "http://xuguochen002.dpdns.org/", show: false },
-		{ go: "💍 前往", img: "/img/02.png", title: "待补充", subtitle: "7,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://xuguochenblog.dpdns.org/", show: false },
-		{ go: "🔍 前往", img: "/img/02.png", title: "待补充", subtitle: "8,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://xuguochenblog.dpdns.org/", show: false },
+		{ go: "🗂️ 前往", img: "/img/03.png", title: "在线音乐平台", subtitle: "2,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "http://xuguochen003.dpdns.org/", show: false },
+		{ go: "📝 前往", img: "/img/04.png", title: "hive AI聊天", subtitle: "3,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "http://xuguochen.dpdns.org/", show: false },
+		{ go: "👍 前往", img: "/img/05.png", title: "open webui AI聊天", subtitle: "4,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://webui.xuguochen.dpdns.org/", show: false },
+		{ go: "🗃 前往", img: "/img/06.png", title: "影视站Libre TV", subtitle: "5,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "http://xuguochen001.dpdns.org/", show: false },
+		{ go: "🎨 前往", img: "/img/07.png", title: "影视站Moon TV", subtitle: "6,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "http://xuguochen002.dpdns.org/", show: false },
+		{ go: "💍 前往", img: "/img/08.png", title: "待补充", subtitle: "7,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://xuguochenblog.dpdns.org/", show: false },
+		{ go: "🔍 前往", img: "/img/09.png", title: "待补充", subtitle: "8,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://xuguochenblog.dpdns.org/", show: false },
 	],
 
 	statement: ["备案号：ANMIAOYI--安妙依", "Copyright © 2025 ANMIAOYI"],
