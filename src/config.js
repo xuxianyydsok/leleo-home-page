@@ -1,9 +1,9 @@
 const config = {
 	//网页元数据
 	metaData: {
-		title: 'Leleo的个人主页🎉',
-		description: '欢迎来到Leleo的奇妙世界！',
-		keywords: 'Leleo,leleo,个人主页,个人网站',
+		title: 'XUGUOCHEN的个人主页🎉',
+		description: '欢迎来到XUGUOCHEN的奇妙世界！',
+		keywords: 'XUGUOCHEN,XUGUOCHEN,个人主页,个人网站',
 		icon: '/favicon.ico'   //网页图标，支持外链
 	},
 
@@ -138,14 +138,14 @@ const config = {
 
 	//项目卡片 其中 字段"show"控制初始卡片的text是否展开
 	projectcards: [
-		{ go: "🚀 前往", img: "/img/sunshine.jpg", title: "Project 1", subtitle: "1,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://leleo.top", show: false },
-		{ go: "🗂️ 前往", img: "/img/sunshine.jpg", title: "Project 2", subtitle: "2,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://leleo.top", show: false },
-		{ go: "📝 前往", img: "/img/sunshine.jpg", title: "Project 3", subtitle: "3,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://leleo.top", show: false },
-		{ go: "👍 前往", img: "/img/sunshine.jpg", title: "Project 4", subtitle: "4,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://leleo.top", show: false },
-		{ go: "🗃 前往", img: "/img/sunshine.jpg", title: "Project 5", subtitle: "5,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://leleo.top", show: false },
-		{ go: "🎨 前往", img: "/img/sunshine.jpg", title: "Project 6", subtitle: "6,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://leleo.top", show: false },
-		{ go: "💍 前往", img: "/img/sunshine.jpg", title: "Project 7", subtitle: "7,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://leleo.top", show: false },
-		{ go: "🔍 前往", img: "/img/sunshine.jpg", title: "Project 8", subtitle: "8,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://leleo.top", show: false },
+		{ go: "🚀 前往", img: "/img/sunshine.jpg", title: "个人博客", subtitle: "1,000 miles of wonder", text: "点击此处访问我的博客.", url: "https://xuguochenblog.dpdns.org/", show: false },
+		{ go: "🗂️ 前往", img: "/img/sunshine.jpg", title: "在线音乐平台", subtitle: "2,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "http://xuguochen003.dpdns.org/", show: false },
+		{ go: "📝 前往", img: "/img/sunshine.jpg", title: "hive AI聊天", subtitle: "3,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "http://xuguochen.dpdns.org/", show: false },
+		{ go: "👍 前往", img: "/img/sunshine.jpg", title: "open webui AI聊天", subtitle: "4,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://webui.xuguochen.dpdns.org/", show: false },
+		{ go: "🗃 前往", img: "/img/sunshine.jpg", title: "影视站Libre TV", subtitle: "5,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "http://xuguochen001.dpdns.org/", show: false },
+		{ go: "🎨 前往", img: "/img/sunshine.jpg", title: "影视站Moon TV", subtitle: "6,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "http://xuguochen002.dpdns.org/", show: false },
+		{ go: "💍 前往", img: "/img/sunshine.jpg", title: "待补充", subtitle: "7,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://xuguochenblog.dpdns.org/", show: false },
+		{ go: "🔍 前往", img: "/img/sunshine.jpg", title: "待补充", subtitle: "8,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://xuguochenblog.dpdns.org/", show: false },
 	],
 
 	statement: ["备案号：ANMIAOYI--安妙依", "Copyright © 2025 ANMIAOYI"],
