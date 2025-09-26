@@ -4,7 +4,7 @@ const config = {
 		title: 'XUGUOCHEN的个人主页🎉',
 		description: '欢迎来到XUGUOCHEN的奇妙世界！',
 		keywords: 'XUGUOCHEN,XUGUOCHEN,个人主页,个人网站',
-		icon: '/favicon.ico'   //网页图标，支持外链
+		icon: '/public/img/favicon.ico'   //网页图标，支持外链
 	},
 
 	avatar: "/img/01.png", // 头像
