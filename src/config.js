@@ -8,7 +8,7 @@ const config = {
 	},
 
 	avatar: "/img/01.png", // 头像
-	welcometitle: "Hello,欢迎来到我的网址导航站", // 标题
+	welcometitle: "Hello,欢迎来到我的网址导航站.", // 标题
 
 	// 颜色配置
 	color: {
