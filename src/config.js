@@ -2,13 +2,13 @@ const config = {
 	//网页元数据
 	metaData: {
 		title: 'XUGUOCHEN的个人主页🎉',
-		description: '欢迎来到XUGUOCHEN的网址导航站',
+		description: 'Welcome to XUGUOCHEN’s website navigation portal.',
 		keywords: 'XUGUOCHEN,XUGUOCHEN,个人主页,个人网站',
 		icon: '/public/img/favicon.ico'   //网页图标，支持外链
 	},
 
 	avatar: "/img/01.png", // 头像
-	welcometitle: "Hello,欢迎来到我的网址导航站", // 标题
+	welcometitle: "Hello,", // 标题
 
 	// 颜色配置
 	color: {
